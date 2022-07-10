@@ -19,7 +19,7 @@ npm run dev
 
 ## About The Project
 
-<img src="https://github.com/mrzachnugent/tchat-react-client/blob/5f45ae4160bf631ba3254385939f182643ff4878/assets/realtime.png?raw=true" alt="Screenshot-2" >
+<img src="https://github.com/mrzachnugent/tchat-react-client/blob/5f45ae4160bf631ba3254385939f182643ff4878/assets/liked-message.png?raw=true" alt="Screenshot-2" >
 
 ### Built With
 
