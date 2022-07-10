@@ -1,0 +1,6 @@
+[submodule "tchat-react-client"]
+	path = tchat-react-client
+	url = git@github.com:mrzachnugent/tchat-react-client.git
+[submodule "tchat-fastify-server"]
+	path = tchat-fastify-server
+	url = git@github.com:mrzachnugent/tchat-fastify-server.git

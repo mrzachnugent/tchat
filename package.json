@@ -1,0 +1,18 @@
+{
+  "name": "tchat",
+  "version": "1.0.0",
+  "description": "",
+  "main": "",
+  "scripts": {
+    "pre": "cd ./tchat-fastify-server && npm install && cd ../tchat-react-client && npm install",
+    "start:server": "cd ./tchat-fastify-server && npm run dev",
+    "start:client": "cd ./tchat-react-client && npm run dev",
+    "dev": "npm run pre && concurrently \"npm:start:*\""
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "concurrently": "^7.2.2"
+  }
+}
