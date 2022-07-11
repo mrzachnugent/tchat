@@ -14,6 +14,7 @@ Realtime changes with tRPC, Web Sockets, Fastify, and React.
 ```bash
 git clone git@github.com:mrzachnugent/tchat.git
 cd tchat
+npm i
 npm run dev
 ```
 
